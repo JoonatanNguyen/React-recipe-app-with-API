@@ -157,3 +157,7 @@ input:-webkit-autofill {
   text-transform: uppercase;
   font-weight: 500;
 }
+
+.recipe-detail {
+  margin-top: 100px;
+}
